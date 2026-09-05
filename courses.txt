@@ -1,4 +1,4 @@
-Python
-Data Structures
+Python Programming
+Advanced Data Structures
 Database Management System
 Computer Networks
