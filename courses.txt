@@ -1,4 +1,9 @@
 Python Programming
 Advanced Data Structures
 Database Management System
+Java Programming
+Data Structures
+Database Systems
 Computer Networks
+
+
